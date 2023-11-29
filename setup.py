@@ -7,7 +7,7 @@ setup(
     author='Firasat',
     author_email='fmohamm1@mail.yu.edu',
     license='MIT',
-    url='https://github.com/Firasathalimohammed/EDA-enhanced/edit/main/setup.py',
+    url='https://github.com/Firasathalimohammed/EDA-enhanced',
     packages=['car_dataset'],
     install_requires=[
         'matplotlib>=3.0.2',
